@@ -1,2 +1,2 @@
 # upgraded-octo-invention
-:octo:
+:octocat:
